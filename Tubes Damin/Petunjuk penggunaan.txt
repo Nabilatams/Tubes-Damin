@@ -1,7 +1,7 @@
 Model dapat diakses di folder Tubes Damin > student_dataset > model
 
-Untuk model 3, 4, dan 5 file upload folder student_dataset original.zip ada di folder Tubes Damin > student_dataset > zip upload > student_dataset original.zip
+Untuk model 3, 4, dan 5 file upload ada di folder Tubes Damin > student_dataset > zip upload > student_dataset original.zip
 
-Untuk model 6 file upload folder student_dataset original.zip ada di folder Tubes Damin > student_dataset > zip upload > student_dataset original.zip
+Untuk model 6 file upload ada di folder Tubes Damin > student_dataset > zip upload > student_dataset original.zip
 
-Upload folder student_dataset.zip yangada di folder Tubes Damin > student_dataset > zip upload > student_dataset.zip
+Untuk menjalankan app.py (dashboard streamlit) file upload ada di folder Tubes Damin > student_dataset > zip upload > student_dataset.zip
